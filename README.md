@@ -1,5 +1,5 @@
 <h1>API DE CADASTRO DE CLIENTES E CONTATOS</h1>
-<h2>Esta Api é destinada a Criação de um cadastro simples de clientes, podendo cada cliente ter diversos contatos com seus respectivos CRUDs<h2>
+<h2>Esta Api é destinada a Criação de um cadastro simples de clientes, tendo em seu front as funções de cadastro e visualização<h2>
 <h2>Criada para fins acadêmicos a fim de criar uma aplicação em formato full stack.<h2>
 <p>O Back End dessa aplicação pode ser encontrado no seguinte <a href='https://github.com/hugommbrito/client_register_API'>repositório</a></p>
 <hr/>
