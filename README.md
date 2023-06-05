@@ -21,7 +21,7 @@
 <h2><strong>Instalação da API</strong></h2>
 <p>Para rodar a página localmente faça um clone do repositório em sua máquina e siga os passos a seguir</p>
 <ol>
-    <li>Abra o terminal na pasta do repositório</li>
+    <li>Abra o terminal na pasta interna do repositório</li>
     <li>Instale as dapendências da aplicação: <code>npm install</code></li>
     <li>Inicie o servidor local: <code>npm run dev</code></li>
 </ol>
